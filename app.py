@@ -6,7 +6,7 @@ st.write("""
 """)
 
 #user input
-user_input = st.text_input("Find Out About Stock")
+user_input = st.text_input("Enter the Stock ticker symbol")
 
 tickerSymbol = user_input
 
